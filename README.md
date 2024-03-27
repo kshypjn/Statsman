@@ -24,3 +24,5 @@ Statsman is a sophisticated graphical user interface (GUI) platform designed to 
 - Tkinter
 - Matplotlib
 - MySQL
+---
+This was my class 12 CBSE Board Problem
