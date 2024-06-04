@@ -1,4 +1,4 @@
-# STATSMAN
+<img width="548" alt="Screenshot 2024-06-04 at 8 24 46 PM" src="https://github.com/kshypjn/Statsman/assets/84303214/f93e441f-f330-49b0-b596-364f106a9f77"># STATSMAN
 
 Statsman is a sophisticated graphical user interface (GUI) platform designed to efficiently manage and analyze data from cricket, football, or hockey matches or tournaments. Developed using Python along with essential Python modules such as Tkinter for GUI development and Matplotlib for data visualization, Statsman integrates seamlessly with MySQL for robust data storage and retrieval.
 
@@ -22,8 +22,14 @@ Statsman is a sophisticated graphical user interface (GUI) platform designed to 
 
 - Python 3.x
 - Tkinter
+
 - Matplotlib
 - MySQL
+
+  ## Screenshots
+  <img width="548" alt="Screenshot1" src="https://github.com/kshypjn/Statsman/assets/84303214/751f67fe-2467-4f72-a162-80921a631c72">
+  <img width="532" alt="Screenshot2" src="https://github.com/kshypjn/Statsman/assets/84303214/8579bdb7-4539-4413-93e5-863eae5bd4c3">
+
 ---
 This was my class 12 CBSE Board Project
 
