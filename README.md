@@ -1,4 +1,4 @@
-##STATSMAN
+**STATSMAN**
 
 Statsman is a sophisticated graphical user interface (GUI) platform designed to efficiently manage and analyze data from cricket, football, or hockey matches or tournaments. Developed using Python along with essential Python modules such as Tkinter for GUI development and Matplotlib for data visualization, Statsman integrates seamlessly with MySQL for robust data storage and retrieval.
 
